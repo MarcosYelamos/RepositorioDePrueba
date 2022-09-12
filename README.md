@@ -12,7 +12,6 @@ Lista desordenada
 
 Lista ordenada 
 1. Paso **1**
-..*
 3. Paso **2**
 4. Paso **3**
 5. ..* Paso 2
