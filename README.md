@@ -24,5 +24,11 @@ Lista ordenada
 ```
  [link](https://www.google.es)
  
-![Pelota de tenis](https://github.com/MarcosYelamos/RepositorioDePrueba/blob/main/imagen.png "Imagen pellota de tenis")
+![Pelota de tenis](https://github.com/MarcosYelamos/RepositorioDePrueba/blob/main/imagen.png)
 
+| Titulo | Titulo 2 | titulo 3 |
+|--------|:--------:|---------:|
+|Nombre  | apellido |apellido 2|
+|Nombre 2| apellido 3| apellido 4|
+|Col 3   | esta alienada| derecha|
+|col 2| esta alienada| centro|
