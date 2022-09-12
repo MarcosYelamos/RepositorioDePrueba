@@ -23,4 +23,4 @@ Lista ordenada
     </head>
   </html>
 ```
-[link] (google.com)
+[link](google.com)
