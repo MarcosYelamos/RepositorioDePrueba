@@ -1,9 +1,12 @@
 # RepositorioDePrueba
 Primer repositorio GitHub
+
 *cursiva* _cursiva_
+
 **negrita** __negrita__
 
 **_negrita_**
+
 Primer repositorio Github
 
 Lista desordenada
